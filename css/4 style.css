@@ -1,0 +1,89 @@
+div {
+    border:3px solid red;
+    margin:3px;
+    padding:4px;
+    animation:colorchg 5s infinite;
+    display: flex;
+    flex-direction: row;
+}
+@keyframes colorchg{
+    0%{
+        border:3px solid rgb(236, 88, 19);
+    }
+    25%{
+        border:3px solid rgb(243, 243, 110);
+    }
+    50%{
+        border:3px solid rgb(87, 241, 241);
+    }
+    75%{
+        border:3px solid rgb(247, 129, 247);
+    }
+    100%{
+        border:3px solid rgb(99, 99, 241);
+    }
+}
+.flex{
+    display:flex;
+    flex-direction: row-reverse;
+}
+
+
+
+.div1{
+     <span class="blinking">EXAM</span>
+    border-top-style:double ;
+    border-box: 20%px; 
+    border-width:10px;
+    border-color:black  ;
+    text-top :exam;
+    text-align:exam;
+    box-text:exam;
+     .btn  {
+  border: none;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+
+     
+     
+}
+.div2{
+     
+    border-box: 20%px; 
+    border-width:10px;
+    border-color:black  ;
+    text-top :exam;
+    text-align:exam;
+    text-shadow:black;
+    box-text:exam;
+     
+     
+}
+.div3{
+     
+    border-width:10px;
+    border-color:black  ;
+    text-top :exam;
+    text-align:exam;
+    text-shadow:black;
+    box-text:exam;
+     
+}
+.div4{
+
+    border-box: 20%px; 
+    border-width:10px;
+    border-color:black;
+    text-top :exam;
+    text-align:exam;
+    box-text:exam;
+     
+}
+

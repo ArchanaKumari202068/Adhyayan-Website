@@ -1,0 +1,10 @@
+
+div{
+    font-size: 100px;
+}
+
+
+.title{font-size: 50px;font-weight: bold;font-style: italic;background-color: black;
+    color: white;text-align: center;}
+.form{font-size: 25px;font-weight: bold;}
+.submit{text-align: center;}
